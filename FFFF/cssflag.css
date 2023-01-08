@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(31, 191, 31);
+  }
+  .field {
+    position: relative;
+    width: 70vw;
+    height: 25vw;
+    margin: 10vw auto;
+    background-color: rgb(26, 211, 26);
+    border:2px solid white;
+    
+
+    
+    
+  }
+
+  .endzones{
+    position: absolute;
+    width: 70vw;
+    height: 25vw;
+    background:
+        repeating-linear-gradient(to right, white 0 10vw, transparent 0vw 60vw)
+        
+
+  }
+  .lines{
+    position: absolute;
+    width: 70vw;
+    height: 25vw;
+    background:
+     repeating-linear-gradient(to right,white   0 2px, transparent 0 10vw);
+     
+  }
+
+  .middle-line{
+    position: absolute;
+    width: 70vw;
+    height: 25vw;
+    background:
+    repeating-linear-gradient(to bottom,transparent 0vw 1vw,white 0vw 2vw) 50%/2px 100% no-repeat;
+     
+    }
+    
+
+  
+		
+		
+	
