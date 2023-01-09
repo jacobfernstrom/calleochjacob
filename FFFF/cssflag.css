@@ -1,6 +1,14 @@
 body {
     background-color: rgb(31, 191, 31);
   }
+  .header{
+    width: 100vw;
+    height: 10vw;
+    position: relative;
+    jjj
+    
+    background-color: blue;
+  }
   .field {
     position: relative;
     width: 70vw;
