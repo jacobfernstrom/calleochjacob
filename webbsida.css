@@ -17,3 +17,8 @@ text-align: center; /* placera all text centrerat i footern */
 
 }
 
+.a {
+    color: inherit;
+    text-decoration: inherit;
+  }
+
