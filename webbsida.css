@@ -1,11 +1,11 @@
 #footer{
-width:100%;
-height:20%; 
+width:100%; /* bredden på footern */
+height:20%; /* höjden */
 position:absolute;
-bottom:0;
-left:0;
+bottom:0; /* placering på botten av sidan */
+left:0; /* palcering direkt till vänster  */
 background-color:rgb(238, 226, 209);
-text-align: center;
+text-align: center; /* placera all text centrerat i footern */
 
 
 }
