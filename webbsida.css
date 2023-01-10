@@ -1,18 +1,4 @@
-#footer{
-    width:100%; /* bredden på footern */
-    height:20%; /* höjden */
-    position:absolute;
-    bottom:0; /* placering på botten av sidan */
-    left:0; /* palcering direkt till vänster  */
-    background-color:rgb(238, 226, 209);
-    text-align: center; /* placera all text centrerat i footern */
-    
-    
-    }
-    
-    #list-center{
-        list-style-type:None;
-        text-align: center;
+ta bort skiten jacob
     
     }
     
