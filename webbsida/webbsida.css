@@ -42,3 +42,12 @@
 
 
     }
+
+#main-top{
+    width:100%; /* bredden på footern */
+    height:40%; /* höjden */
+    position: absolute;
+    top: 20%;
+    left: 0;
+    background-color: brown;
+  }
