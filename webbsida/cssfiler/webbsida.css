@@ -45,9 +45,9 @@
 
 #main-top{
     width:100%; /* bredden på footern */
-    height:40%; /* höjden */
+    height:100%; /* höjden */
     position: absolute;
-    top: 20%;
+    top: 100px;
     left: 0;
     background-color: brown;
   }
