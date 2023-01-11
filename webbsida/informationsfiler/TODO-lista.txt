@@ -1,0 +1,13 @@
+Vecka 1
+
+1. gör en basic html-hemsida som välkomnar en till sidan
+2. Header/calle, footer/Jacob https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure
+3. Gör färdigt bilderna med fotbollslagen
+    1. man behöver en länk
+    2. sök på google på laget
+    3. använd developer tools och hitta fliken där LOGOTYPEN ligger
+    4. klistra in länken i textdokumentet i COMPONENTS i vscode
+    5. gör färdigt listan
+
+4. H1-headern bredvid bilderna behöver bättre text/en bild. Göra egen logotyp? och inte använda text utan
+5. Länka varje bild i header till hemsidan för varje lag
