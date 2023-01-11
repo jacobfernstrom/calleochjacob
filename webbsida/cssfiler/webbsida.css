@@ -1,4 +1,6 @@
-#footer{
+
+
+  #footer{
     width:100%; /* bredden på footern */
     height:20%; /* höjden */
     position:absolute;
@@ -22,12 +24,12 @@
       }
       #header {
         width: 100%;
-        height: 100px;
+        height: 120px;
         position: absolute;
         background-color: #dbcef3;
-        color: rgb(221, 42, 42);
+        color: rgb(205, 74, 74);
         text-align: left;
-        line-height: 50px;
+        line-height: 0px;
         left:0%;
         top:0%;
         
@@ -40,15 +42,18 @@
     
     text-decoration: inherit;
 
+    }
 
-
+    .h1header-name{
+      font-size: 4ch;
+      text-align: center;
     }
 
 #main-top{
     width:100%; /* bredden på footern */
     height:70%; /* höjden */
     position: absolute;
-    top: 100px;
+    top: 120px;
     left: 0;
     background-color: brown;
   }
@@ -61,13 +66,21 @@
     background: inherit;
     
     
+    
+    
   }
 
   #horizontal-list{
     
     list-style: None; /* inga punkter eller siffror */
-    display: flex; /*  */
-    flex-direction: row; /* lägger flex block i rad */
-    
+    display: flex; /*  */   
+    align-items: center;
+    justify-content: center; 
     
   }
+  .menu {
+    
+    
+    align-items: center;
+  }
+  
